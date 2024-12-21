@@ -38,4 +38,4 @@ jobs:
       - name: Build and Publish to Oxygen
         run: npx shopify hydrogen deploy
         env:
-          .github/workflows/oxygen-deployment-1000028502.yml
+        https://github.com/enterprises/pomoc-dla-powodzian/security/metrics/codeql/export.csv?export_id=956fa01b56a5923801e5e53b55393240d78c9e9500ce0c1df100a32c25e13636
