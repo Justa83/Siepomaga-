@@ -36,6 +36,5 @@ jobs:
         run: npm ci
 
       - name: Build and Publish to Oxygen
-        run: npx shopify hydrogen deploy
-        env:
-        https://github.com/enterprises/pomoc-dla-powodzian/security/metrics/codeql/export.csv?export_id=956fa01b56a5923801e5e53b55393240d78c9e9500ce0c1df100a32c25e13636
+        run: npx shopify hydrogen 
+[![Proof HTML](https://github.com/Siepomaga83/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Siepomaga83/demo-repository/actions/workflows/proof-html.yml)
