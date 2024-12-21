@@ -37,4 +37,4 @@ jobs:
 
       - name: Build and Publish to Oxygen
         run: npx shopify hydrogen 
-[![Proof HTML](https://github.com/Siepomaga83/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Siepomaga83/demo-repository/actions/workflows/proof-html.yml)
+
