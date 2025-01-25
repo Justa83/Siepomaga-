@@ -1,0 +1,11 @@
+name: '@Justa83's untitled project'
+version: '1.0'
+config-version: 2
+
+profile: 'profil_projektu'
+
+# Opcjonalne ustawienia
+target-path: "target/"
+clean-targets:
+  - "target"
+  - "dbt_modules"
