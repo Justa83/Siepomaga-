@@ -1,4 +1,4 @@
-name: '@Justa83's untitled project'
+name: 'Analytics'
 version: '1.0'
 config-version: 2
 
@@ -9,3 +9,15 @@ target-path: "target/"
 clean-targets:
   - "target"
   - "dbt_modules"
+version: "1"
+context:
+  active-host: "nl214.us1.dbt.com"
+  active-project: "70471823418738"
+projects:
+  - project-name: "Analytics"
+    project-id: "70471823418738"
+    account-name: "Pomoc "
+    account-id: "70471823416086"
+    account-host: "nl214.us1.dbt.com"
+    
+    
