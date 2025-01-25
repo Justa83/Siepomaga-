@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "nl214.us1.dbt.com"
+  active-project: "70471823418738"
+projects:
+  - project-name: "Analytics"
+    project-id: "70471823418738"
+    account-name: "Pomoc "
+    account-id: "70471823416086"
+    account-host: "nl214.us1.dbt.com"
+    token-name: "cloud-cli-e6bc"
+    token-value: "dbtu_zlYa_046Spgw4TVh8VGu-wxfVXM6DF_w0KsDL2JTC3yFPs76lk"
+
+
