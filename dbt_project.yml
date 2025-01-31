@@ -2,7 +2,7 @@ name: 'Analytics'
 version: '1.0'
 config-version: 2
 
-profile: 'profil_projektu'
+profile: 'siepomaga-645d1'
 
 # Opcjonalne ustawienia
 target-path: "target/"
@@ -11,13 +11,13 @@ clean-targets:
   - "dbt_modules"
 version: "1"
 context:
-  active-host: "nl214.us1.dbt.com"
-  active-project: "70471823418738"
+  active-host: "ln109.us1.dbt.com"
+  active-project: "70471823419066"
 projects:
   - project-name: "Analytics"
-    project-id: "70471823418738"
-    account-name: "Pomoc "
-    account-id: "70471823416086"
-    account-host: "nl214.us1.dbt.com"
+    project-id: "70471823419066"
+    account-name: "siepomaga-645d1"
+    account-id: "70471823419066"
+    account-host: "ln109.us1.dbt.com"
     
     
