@@ -1,24 +1,27 @@
-name: 'Analytics'
-version: '1.0'
-config-version: 2
-
-profile: 'siepomaga-645d1'
-
-# Opcjonalne ustawienia
-target-path: "/usr/src/develop/user-70471823413228/environment-70471823421863/repository-70471823419066/dbt_project.yml
-"
-clean-targets:
-  - "target"
-  - "dbt_modules"
 version: "1"
+
 context:
+
   active-host: "ln109.us1.dbt.com"
-  active-project: "70471823419066"
+
+  active-project: "70471823422016"
+
 projects:
+
   - project-name: "Analytics"
-    project-id: "70471823419066"
-    account-name: "siepomaga-645d1"
+
+    project-id: "70471823422016"
+
+    account-name: "Siepomaga "
+
     account-id: "70471823419066"
+
     account-host: "ln109.us1.dbt.com"
+
+    token-name: "cloud-cli-9836"
+
+    token-value: "dbtu_FO5kPHM27evNuuNvciYUYvE8KyXnbh4YMEsHk99EZRkEpfaxrs"
+
+
     
     
