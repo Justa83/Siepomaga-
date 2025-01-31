@@ -5,7 +5,8 @@ config-version: 2
 profile: 'siepomaga-645d1'
 
 # Opcjonalne ustawienia
-target-path: "target/"
+target-path: "/usr/src/develop/user-70471823413228/environment-70471823421863/repository-70471823419066/dbt_project.yml
+"
 clean-targets:
   - "target"
   - "dbt_modules"
